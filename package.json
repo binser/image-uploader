@@ -1,0 +1,26 @@
+{
+  "name": "image-uploader",
+  "version": "0.0.3",
+  "description": "",
+  "main": "js/uploader.min.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower": "./node_modules/.bin/bower"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binser/image-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binser/image-uploader/issues"
+  },
+  "homepage": "https://github.com/binser/image-uploader#readme"
+}
